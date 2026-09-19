@@ -8,7 +8,7 @@
 
 MedPredict AI is an intelligent disease prediction platform that helps users identify likely diseases based on their symptoms using a machine learning model trained on symptom-to-disease data.
 
-Live Demo: https://your-live-demo-url.com
+Live Demo: https://disease-prediction-xts8bsqf7tullcbh5hd7jg.streamlit.app/
 
 ## Why This Project Matters
 
@@ -133,5 +133,3 @@ For collaboration, product ideas, or deployment support, connect with the projec
 GitHub: https://github.com/SARAVANA-R28
 
 ---
-
-If you share your actual live website URL, I can replace the placeholder with the exact deployment link and make the README fully production-ready.
